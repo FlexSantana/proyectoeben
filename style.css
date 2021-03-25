@@ -137,14 +137,14 @@ form#form_contact label p{
   color: red;
 }
 input{
-  width: 9.5cm;
+  width: 9.3cm;
   border-color:rgb(0, 0, 0);
   border-radius: 1rem 1rem 1rem 1rem;
   height: 40px;
   text-align: center;
 }
 textarea{
-  width: 10cm;
+  width: 9.3cm;
   border-color:rgb(0, 0, 0);
   border-radius: 1rem 1rem 1rem 1rem;
   text-align: center;
